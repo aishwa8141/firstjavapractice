@@ -6,7 +6,7 @@ public class N_iteration {
 
         Scanner scan=new Scanner(System.in);
 
-        System.out.println("enter a number");
+        System.out.println("enter a number n for nth iteration");
         int n=scan.nextInt();
 
         for (int i=1;i<=n;i++)
